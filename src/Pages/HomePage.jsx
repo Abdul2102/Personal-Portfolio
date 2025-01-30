@@ -40,7 +40,6 @@ const HomePage = () => {
       <main>
         <Hero />
         <About />
-        <Work />
         <Skills />
         <Projects />
         <Contact />
