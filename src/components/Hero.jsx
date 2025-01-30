@@ -44,12 +44,12 @@ const Hero = () => {
         animate={{ opacity: 1 }}
         transition={{ delay: 0.5, duration: 0.6 }}
       >
-        <button className="px-4 py-3 text-lg rounded-xl bg-blue-500 hover:bg-blue-600 transition shadow-lg">
+        <a href="https://drive.google.com/file/d/1tTuJCVa0F1MpyT_KZ7lFurRyzm1IGL-R/view?usp=drive_link"  className="px-4 py-3 text-lg rounded-xl bg-blue-500 hover:bg-blue-600 transition shadow-lg">
           Download CV
-        </button>
-        <button className="px-6 py-3 text-lg rounded-xl bg-zinc-700 hover:bg-zinc-600 transition shadow-lg">
+        </a>
+        <a href="#contact"  className="px-6 py-3 text-lg rounded-xl bg-zinc-700 hover:bg-zinc-600 transition shadow-lg">
           Contact
-        </button>
+        </a>
       </motion.div>
       <div className="flex gap-4 mt-16 max-sm:mt-2">
         <a href="https://www.alkalam456@gmail.com">
