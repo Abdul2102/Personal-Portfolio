@@ -82,7 +82,7 @@ const Projects = () => {
           </div>
           <div className="relative rounded-lg overflow-hidden shadow-lg bg-zinc-800 group hover:shadow-2xl transition-all duration-300 reveal-up">
           <img
-              src="https://img.freepik.com/free-photo/computer-monitor-keyboard-wooden-table-dark-room-night_1142-41875.jpg?t=st=1738163739~exp=1738167339~hmac=bbcc665d9f93e2cc8be4c53a69676fdcc932bb224b1da43acfcd04261fdc588a&w=996"
+              src={Hero}
               alt="Movie Ticket Booking Website"
               className="w-full h-72 object-cover transition-transform duration-300 group-hover:scale-105"
             />
@@ -99,7 +99,7 @@ const Projects = () => {
           </div>
           <div className="relative rounded-lg overflow-hidden shadow-lg bg-zinc-800 group hover:shadow-2xl transition-all duration-300 reveal-up">
           <img
-              src="https://img.freepik.com/free-photo/computer-monitor-keyboard-wooden-table-dark-room-night_1142-41875.jpg?t=st=1738163739~exp=1738167339~hmac=bbcc665d9f93e2cc8be4c53a69676fdcc932bb224b1da43acfcd04261fdc588a&w=996"
+              src={Hero}
               alt="Portfolio Website"
               className="w-full h-72 object-cover transition-transform duration-300 group-hover:scale-105"
             />
