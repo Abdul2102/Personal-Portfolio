@@ -3,11 +3,12 @@ import { motion } from "framer-motion";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
 
+
 const Hero = () => {
   return (
     <section
       id="home"
-      className=" h-screen py-12 pt-24  flex flex-col items-center justify-center text-center px-6 sm:left-10   text-white bg-[url('https://img.freepik.com/free-photo/computer-monitor-keyboard-wooden-table-dark-room-night_1142-41875.jpg?t=st=1738163739~exp=1738167339~hmac=bbcc665d9f93e2cc8be4c53a69676fdcc932bb224b1da43acfcd04261fdc588a&w=996')] bg-no-repeat bg-cover bg-center opacity-100 "
+      className=" h-screen py-12 pt-24  flex flex-col items-center justify-center text-center px-6 sm:left-10   text-white bg-[url(./assets/Hero-img.jpg)] bg-no-repeat bg-cover bg-center opacity-100 "
     >
       <motion.h1
         className="text-5xl xl:text-6xl font-extrabold mb-4 text-white leading-snug tracking-wide max-sm:text-2xl"
