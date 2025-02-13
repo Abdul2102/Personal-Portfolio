@@ -45,7 +45,7 @@ const Projects = () => {
               <p className="text-zinc-300 text-sm text-center px-4 mb-4">
               A fully functional web application that allows clients to book appointments with lawyers based on availability.
               </p>
-              <a href="" className="px-6 py-2 bg-blue-500 text-white font-medium rounded-lg shadow hover:bg-blue-600 hover:shadow-lg transition-all ">View on GitHub</a>
+              <a href="https://lawlinkuser.netlify.app/" className="px-6 py-2 bg-blue-500 text-white font-medium rounded-lg shadow hover:bg-blue-600 hover:shadow-lg transition-all ">View My Website</a>
             </div>
           </div>
           <div className="relative rounded-lg overflow-hidden shadow-lg bg-zinc-800 group hover:shadow-2xl transition-all duration-300 reveal-up">
@@ -88,16 +88,15 @@ const Projects = () => {
             />
             <div className="absolute inset-0 bg-black bg-opacity-70 flex flex-col items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
               <h3 className="text-2xl font-bold text-white mb-2">
-                Portfolio Website
+                Movie Ticket Booking Website
               </h3>
               <p className="text-zinc-300 text-sm text-center px-4 mb-4">
-                A personal portfolio website showcasing my skills, projects, and
-                contact details.
+              A user-friendly movie ticket booking website for seamless online reservations and seat selection.
               </p>
-              <a href="" className="px-6 py-2 bg-blue-500 text-white font-medium rounded-lg shadow hover:bg-blue-600 hover:shadow-lg transition-all ">View on GitHub</a>
+              <a href="https://popcornspot.netlify.app/" className="px-6 py-2 bg-blue-500 text-white font-medium rounded-lg shadow hover:bg-blue-600 hover:shadow-lg transition-all ">View MY WEBSITE</a>
             </div>
           </div>
-          <div className="relative rounded-lg overflow-hidden shadow-lg bg-zinc-800 group hover:shadow-2xl transition-all duration-300 reveal-up">
+          {/* <div className="relative rounded-lg overflow-hidden shadow-lg bg-zinc-800 group hover:shadow-2xl transition-all duration-300 reveal-up">
           <img
               src={Hero}
               alt="Portfolio Website"
@@ -113,7 +112,7 @@ const Projects = () => {
               </p>
               <a href="" className="px-6 py-2 bg-blue-500 text-white font-medium rounded-lg shadow hover:bg-blue-600 hover:shadow-lg transition-all ">View on GitHub</a>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
