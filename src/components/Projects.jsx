@@ -82,7 +82,7 @@ const Projects = () => {
           </div>
           <div className="relative rounded-lg overflow-hidden shadow-lg bg-zinc-800 group hover:shadow-2xl transition-all duration-300 reveal-up">
           <img
-              src={Hero}
+              src="https://img.freepik.com/free-photo/3d-cinema-theatre-seating-with-popcorn_23-2151005463.jpg?t=st=1739451769~exp=1739455369~hmac=b698171f9c54d5bf65a3892b5d6e720ad12a83e53c391e35971b43ec60ade087&w=1380"
               alt="Movie Ticket Booking Website"
               className="w-full h-72 object-cover transition-transform duration-300 group-hover:scale-105"
             />
