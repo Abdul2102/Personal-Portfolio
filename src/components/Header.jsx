@@ -52,7 +52,7 @@ const Header = () => {
           <a href="https://github.com/in/Abdul2102">
             <FaGithub className="h-7 w-7" />
           </a>
-          <a href="https://www.linkedin.com/in/abdulkalam-">
+          <a href="https://www.linkedin.com/in/abdulkalam21">
             <FaLinkedin className="h-7 w-7" />
           </a>
         </motion.div>
